@@ -1,5 +1,5 @@
 {
-  "name": "tailwinds",
+  "name": "pixer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "sardor",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.4.1"
